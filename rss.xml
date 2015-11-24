@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ MO:PR]]></title>
+        <description><![CDATA[ MO:PR]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 Nov 2015 18:20:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PR FOR THE QC MARKET]]></title>
+            <description><![CDATA[<article><h1>PR FOR THE QC MARKET</h1><h2>WHAT WE DO</h2><p>The starting point to any successful Québec campaign is anchoring your news in the local culture, making it relevant and useful to your audience.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f40a31a-6549-469a-8b85-2e3827e30707.jpg"></article>]]></description>
+            <link>undefinedpr-for-the-qc-market/index.html</link>
+            <guid isPermaLink="false">49f98b10-2b61-45a2-b218-8a9f2902c2df</guid>
+            <pubDate>Tue, 24 Nov 2015 18:19:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
