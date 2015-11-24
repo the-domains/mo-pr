@@ -1,0 +1,28 @@
+name: ' MO:PR'
+favicon: null
+layout_spectrum: 0.8401217891369015
+typography_spectrum: 0.12938245455734432
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7543617310002446
+  lightness: 0.0826674192212522
+  saturation: 0.9021336548030376
+  rhythmicContrast: 0.8512920446228236
+purpose: []
