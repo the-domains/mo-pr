@@ -1,7 +1,7 @@
 name: ' MO:PR'
 favicon: null
-layout_spectrum: 0.8401217891369015
-typography_spectrum: 0.12938245455734432
+layout_spectrum: 0.24741
+typography_spectrum: 0.13707
 title: 'PR for the Québec market '
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#00b0bf'
+    - '#00407d'
+    - '#fefefc'
+    - '#a6a08d'
   brandStrength: 0.7543617310002446
   lightness: 0.0826674192212522
   saturation: 0.9021336548030376
